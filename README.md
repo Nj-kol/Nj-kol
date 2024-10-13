@@ -28,3 +28,71 @@ I have experience in designing and building an Enterprise Data Lake from scratch
 and expertise in building highly scalable data products with NoSQL data stores such as Cassandra, HBase, Kudu
 
 Presently I am working on implementing real-time streaming architectures and integrating and applying Machine learning models to various use cases  
+
+### 🧰 My Tech skills 
+
+#### Languages and tools
+
+<p align="left">
+	<a href="https://www.java.com" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+	</a>
+	<a href="https://www.python.org" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+	</a>
+	<a href="https://www.scala-lang.org" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40" />
+	</a>
+</p>
+
+#### Data Engineering
+
+<p align="left">
+	<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40" />
+	</a>
+	<a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="spark" width="40" height="40" />
+	</a>
+	<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40" />
+	</a>
+	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
+	</a>
+	<a href="https://redis.io" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
+	</a>
+	<a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40" />
+	</a>
+</p>
+
+#### Infra & Ops
+
+<p align="left">
+	<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
+	</a>
+	<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
+	</a>
+	<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />
+	</a>
+	<a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="prometheus" width="40" height="40" />
+	</a>
+	<a href="https://grafana.com" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" />
+	</a>
+	<a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
+	</a>
+	<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer">
+		<img src="https://github.com/gilbarbara/logos/blob/main/logos/sonarqube.svg" alt="sonarqube" width="40" height="40" />
+	</a>
+	<a href="https://snyk.io/" target="_blank" rel="noreferrer">
+		<img src="https://github.com/cncf/landscape/blob/master/hosted_logos/snyk.svg" alt="snyk" width="40" height="40" />
+	</a>
+</p>
